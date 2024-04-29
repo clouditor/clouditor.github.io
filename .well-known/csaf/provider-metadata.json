@@ -1,0 +1,20 @@
+{
+  "canonical_url": "https://clouditor.io/.well-known/csaf/provider-metadata.json",
+  "distributions": [
+    {
+      "directory_url": "https://clouditor.io/.well-known/csaf/white/"
+    }
+  ],
+  "last_updated": "2024-04-29T00:00:00.0Z",
+  "list_on_CSAF_aggregators": true,
+  "metadata_version": "2.0",
+  "mirror_on_CSAF_aggregators": true,
+  "publisher": {
+    "category": "vendor",
+    "contact_details": "oxisto@clouditor.io",
+    "issuing_authority": "Clouditor Team",
+    "name": "Clouditor Team",
+    "namespace": "https://clouditor.io"
+  },
+  "role": "csaf_provider"
+}
